@@ -23,3 +23,6 @@ sudo curl -L https://raw.githubusercontent.com/Bash-it/bash-it/master/completion
 
 #maven
 sudo curl -L https://raw.githubusercontent.com/Bash-it/bash-it/master/completion/available/maven.completion.bash -o /etc/bash_completion.d/maven
+
+#Angular cli
+sudo curl -L https://raw.githubusercontent.com/Bash-it/bash-it/master/completion/available/ng.completion.bash -o /etc/bash_completion.d/ng
